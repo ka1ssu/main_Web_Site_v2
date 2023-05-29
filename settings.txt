@@ -1,0 +1,16 @@
+{"site_url":"http://localhost:8000",
+"site_title": "kaissu: Разработчик сборок",
+"description": "kaissu - бла бла бла Python разработчика",
+"keywords": "Разработка сборок, обучение новичков",
+"name": "kaissu",
+"tag1":"Разработчик и автор",
+"tag2":"сборок по Dota 2",
+"sect1":"Главная",
+"sect2":"Обо мне",
+"sect3":"Портфолио",
+"sect4":"Контакты",
+"telegram":"https://t.me/MonkeyMotivation_Bot",
+"facebook":"ttps://facebook.com",
+"vk":"https://vk.com/nnforu",
+"email":"https://mail.ru/"
+}
